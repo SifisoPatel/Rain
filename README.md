@@ -4,3 +4,4 @@ Not using any 3rd party api's like openGL
 Based/following (on) a youtube video lecture by the cherno
 Technolgies used:
 	* Java and associated libraries
+	* No 3rd party api's or libraries were used
